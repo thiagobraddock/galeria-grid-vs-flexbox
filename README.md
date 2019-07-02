@@ -2,4 +2,4 @@
 
 ### Usando layout com conceito de wrapper de conteúdo para manter todos os objetos corretamentes alinhados (menu, section, etc)
 
-<img src="gif.gif" width="800">
+<img src="grid.gif" width="800">
